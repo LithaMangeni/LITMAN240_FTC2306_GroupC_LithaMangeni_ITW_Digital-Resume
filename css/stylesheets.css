@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+}
+header{
+    font-size: small;
+}
+img{
+    padding: 1rem;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 2fr ;
+}
+
+.hero{
+    background-image: url(images/photo-backdrop.jpg);
+   
+}
+nav {
+    text-decoration: none;
+}
+.grid-container-1{
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 35px;
+}
+.flex-container{
+    display: flex;
+    background-color: white;
+    position: absolute;
+    top: 0;
+    text-decoration: none ;
+    flex-direction: column-reverse; 
+}
+.flex-item{
+ padding: 10px;
+}
+h2,h3{
+    color: blueviolet;font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+   font-family: Arial, Helvetica, sans-serif;
+}
+header p{
+    color: white;
+}
+h1{
+    color: white;
+}
