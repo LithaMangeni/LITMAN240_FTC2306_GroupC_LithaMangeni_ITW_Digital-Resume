@@ -1,8 +1,11 @@
 body{
-    margin: 0;
+    margin: 0; font-family:Arial, Helvetica, sans-serif
 }
 header{
-    font-size: small;
+  margin-top: 40px;
+}
+header p{
+    color: white;
 }
 img{
     padding: 1rem;
@@ -31,23 +34,40 @@ nav {
 .flex-container{
     display: flex;
     background-color: white;
+    text-decoration: none;
     position: absolute;
     top: 0;
-    text-decoration: none ;
-    flex-direction: column-reverse; 
+    flex-direction: row; 
 }
-.flex-item{
+.flex-item-1{
  padding: 10px;
 }
+.flex-item-2{
+    padding: 10px;
+   }
+   .flex-item-3{
+    padding: 10px;
+   }
+   .flex-item-4{
+    padding: 10px;
+   }
 h2,h3{
     color: blueviolet;font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 p{
    font-family: Arial, Helvetica, sans-serif;
 }
-header p{
-    color: white;
-}
+
 h1{
-    color: white;
+    color:white;
+}
+
+footer img{
+    width: 50px;
+    height: 50px;
+}
+.grid-container-2{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+   background-color: orange;
 }
