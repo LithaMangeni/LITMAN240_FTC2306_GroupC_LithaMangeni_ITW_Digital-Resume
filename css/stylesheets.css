@@ -1,5 +1,5 @@
 body{
-    margin: 0; font-family:Arial, Helvetica, sans-serif
+    margin: 0; font-family:Arial, Helvetica, sans-serif; font-size: small;
 }
 header{
   margin-top: 40px;
@@ -12,6 +12,7 @@ img{
     width: 100px;
     height: 100px;
     border-radius: 50%;
+    
 }
 .grid-container{
     display: grid;
@@ -22,8 +23,9 @@ img{
     background-image: url(images/photo-backdrop.jpg);
    
 }
-nav {
+nav a{
     text-decoration: none;
+    color: blueviolet;
 }
 .grid-container-1{
     
@@ -38,6 +40,7 @@ nav {
     position: absolute;
     top: 0;
     flex-direction: row; 
+   
 }
 .flex-item-1{
  padding: 10px;
@@ -68,6 +71,9 @@ footer img{
 }
 .grid-container-2{
     display: grid;
-    grid-template-columns: 1fr 1fr ;
-   background-color: orange;
+    grid-template-columns: 1fr 2fr ;
+    background-color:blueviolet
+}
+.grid-item{
+    color: black;
 }
