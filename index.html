@@ -10,7 +10,13 @@
     <header class="hero">
       <div  class="grid-container">
       <div class=" grid-item-1">
-      <img src="images/MY PROFILE PIC.jpg" alt="my profile pic" />
+        <picture>
+          <source media="(max-width: 425px)" srcset="images/face pic.jpg">
+        
+          <source media="(max-width: 900px)" srcset="images/shoulder pic.jpg">
+
+          <img src="images/MY PROFILE PIC.jpg" alt="my profile pic" />
+        </picture>
       </div>
       <div class="grid-item-2">
     <h1>Litha Mangeni</h1>
@@ -38,7 +44,7 @@
       <a href="#education">Education</a>
       </div>
       <div class="flex-item-4">
-      <a href="#experience">experience</a>
+      <a href="#experience">Experience</a>
       </div>
       </div>
     </nav>
