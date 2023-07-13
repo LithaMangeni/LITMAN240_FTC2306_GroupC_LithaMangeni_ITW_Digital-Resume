@@ -92,6 +92,9 @@ p{
 }
 
 @media (min-width: 426px) and (max-width: 768px) { 
+    body{
+        background-color: grey;
+    }
     .flex-container{
         gap: 46px;
     }
