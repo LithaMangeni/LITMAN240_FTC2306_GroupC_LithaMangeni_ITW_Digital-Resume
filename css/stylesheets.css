@@ -77,7 +77,10 @@ footer img{
     color: black;
 }
 @media only screen and (max-width: 425px) {
-   .hero{
+   body{
+    width: 77%;
+   }
+    .hero{
     width: 130%;
    }  
  }
@@ -93,7 +96,7 @@ p{
 
 @media (min-width: 426px) and (max-width: 768px) { 
     body{
-        background-color: grey;
+        background-color: grey; width: 100%;
     }
     .flex-container{
         gap: 46px;
@@ -110,8 +113,12 @@ p{
 }
 
 @media only screen and (min-width: 769px) {
+    body{
+        width: 100%;
+    }
  .hero{
     width: 130%;
  }
  } 
+
  
