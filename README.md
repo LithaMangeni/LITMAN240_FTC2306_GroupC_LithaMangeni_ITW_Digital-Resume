@@ -1,1 +1,0 @@
-# LITMAN240_FTC2306_GroupC_LithaMangeni_ITW_Digital-Resume
