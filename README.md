@@ -1,6 +1,6 @@
 # Litha Mangeni Digital Resume
 
-Welcome to the repository for my personal resume website. This website serves as an online representation of my professional background, skills, and projects. Feel free to explore and learn more about me!
+Welcome to the repository for my personal resume website. This website serves as an online representation of my professional background and skills. Feel free to explore and learn more about me!
 
 ## Demo
 
