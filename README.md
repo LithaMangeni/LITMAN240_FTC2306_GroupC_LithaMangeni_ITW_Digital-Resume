@@ -4,7 +4,8 @@ Welcome to the repository for my personal resume website. This website serves as
 
 ## Demo
 
-You can visit the Wireframe at:(https://www.figma.com/file/Yfe0cJwPqp68JXWI5hG5NJ/LITMAN240_FTC2306_GroupC_LithaMangeni_ITW_Digital-Resume?type=design&t=FGzZ2jF9Up1XrAfr-6)
+You can visit the Wireframe at:
+https://www.figma.com/file/Yfe0cJwPqp68JXWI5hG5NJ/LITMAN240_FTC2306_GroupC_LithaMangeni_ITW_Digital-Resume?type=design&t=FGzZ2jF9Up1XrAfr-6
 
 ## Features
 
